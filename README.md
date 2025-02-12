@@ -8,8 +8,7 @@ A **basic calculator** built using **HTML, CSS, and JavaScript**. It allows user
 - Clear button to reset calculations
 
 ## 📸 Screenshot
-![Calculator Screenshot](screenshot.png)  
-(*Replace with an actual screenshot of your project*)
+![Calculator Screenshot](https://i.postimg.cc/jSnccCrf/Screenshot-29.png)  
 
 ## 📥 How to Run the Project
 1. **Clone the repository**  
